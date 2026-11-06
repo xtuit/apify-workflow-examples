@@ -7,6 +7,10 @@ Export public company jobs or build a website technology inventory using two hos
 | Workday company job feed | [Tutorial](docs/workday.md) · [10-row input](examples/inputs/workday.json) | [Workday Jobs Scraper](https://apify.com/kirozhang/workday-careers-job-exporter?utm_source=github&utm_medium=example_repository&utm_campaign=workday_tech_202611&utm_content=readme_workday) |
 | Website technology inventory and comparison | [Tutorial](docs/technology.md) · [2-URL input](examples/inputs/technology.json) | [Website Tech Stack Detector](https://apify.com/kirozhang/website-tech-stack-evidence?utm_source=github&utm_medium=example_repository&utm_campaign=workday_tech_202611&utm_content=readme_technology) |
 
+## Local data-intake demonstration
+
+The self-contained [CSV intake and CRM-import demo](agency-pilot/README.md) shows validation, duplicate handling, exception reports, replay checks and testable handover. It runs with Python's standard library and makes no network calls. All bundled contacts are synthetic; these are capability examples, not client results or revenue evidence.
+
 ## Run a small example
 
 Download this repository or clone it, then run from its root:

@@ -1,0 +1,5 @@
+email,name,company,source,message
+alice@example.com,Alice Example,Northwind Demo,Web form,Please send the revised synthetic product sheet.
+bob@example.com,Bob Example,Contoso Demo,Referral,Please arrange a demo next week.
+carol@example.com,Carol Example,Adventure Demo,Event,"Please show the pricing table.
+This is a synthetic multiline inquiry."

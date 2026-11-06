@@ -1,0 +1,109 @@
+{
+  "synthetic_demo": true,
+  "events": [
+    {
+      "event_id": "dcade4414bdd9227f24720c35eb0dd9781a0f28fd16e37cc3df0a0f1aeb807cf",
+      "action": "new",
+      "line_number": 4,
+      "email": "alice@example.com",
+      "name": "Alice Example",
+      "company": "Northwind Demo",
+      "source": "Web form",
+      "message": "Please send the revised synthetic product sheet.",
+      "changes": {
+        "email": {
+          "before": "",
+          "after": "alice@example.com"
+        },
+        "name": {
+          "before": "",
+          "after": "Alice Example"
+        },
+        "company": {
+          "before": "",
+          "after": "Northwind Demo"
+        },
+        "source": {
+          "before": "",
+          "after": "Web form"
+        },
+        "message": {
+          "before": "",
+          "after": "Please send the revised synthetic product sheet."
+        }
+      }
+    },
+    {
+      "event_id": "2dc67e46bcf891977c68f2127f2baa22401544d933d397451dcbe6441ce58a28",
+      "action": "new",
+      "line_number": 3,
+      "email": "bob@example.com",
+      "name": "Bob Example",
+      "company": "Contoso Demo",
+      "source": "Referral",
+      "message": "Please arrange a demo next week.",
+      "changes": {
+        "email": {
+          "before": "",
+          "after": "bob@example.com"
+        },
+        "name": {
+          "before": "",
+          "after": "Bob Example"
+        },
+        "company": {
+          "before": "",
+          "after": "Contoso Demo"
+        },
+        "source": {
+          "before": "",
+          "after": "Referral"
+        },
+        "message": {
+          "before": "",
+          "after": "Please arrange a demo next week."
+        }
+      }
+    },
+    {
+      "event_id": "cef1bc14d4cbdfc43c7a5053e637cc829110326c4b5b34ee51aecbdddbecdd58",
+      "action": "new",
+      "line_number": 9,
+      "email": "carol@example.com",
+      "name": "Carol Example",
+      "company": "Adventure Demo",
+      "source": "Event",
+      "message": "Please show the pricing table.\nThis is a synthetic multiline inquiry.",
+      "changes": {
+        "email": {
+          "before": "",
+          "after": "carol@example.com"
+        },
+        "name": {
+          "before": "",
+          "after": "Carol Example"
+        },
+        "company": {
+          "before": "",
+          "after": "Adventure Demo"
+        },
+        "source": {
+          "before": "",
+          "after": "Event"
+        },
+        "message": {
+          "before": "",
+          "after": "Please show the pricing table.\nThis is a synthetic multiline inquiry."
+        }
+      }
+    }
+  ],
+  "within_file_duplicates": [
+    {
+      "email": "alice@example.com",
+      "replaced_line": 2,
+      "kept_line": 4
+    }
+  ],
+  "suppressed_stale_versions": []
+}

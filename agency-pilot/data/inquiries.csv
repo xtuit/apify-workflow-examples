@@ -1,0 +1,10 @@
+email,name,company,source,message
+ ALICE@EXAMPLE.COM ,Alice Example,Northwind Demo,Web form,Please send the synthetic product sheet.
+bob@example.com,Bob Example,Contoso Demo,Referral,Please arrange a demo next week.
+alice@example.com,Alice Example,Northwind Demo,Web form,Please send the revised synthetic product sheet.
+not-an-email,Invalid Example,Fabrikam Demo,Web form,Invalid address for quarantine demonstration.
+empty-name@example.com,,Fabrikam Demo,Web form,Missing name for quarantine demonstration.
+short-row@example.com,Short Example,Fabrikam Demo,Web form
+extra@example.com,Extra Example,Fabrikam Demo,Web form,Too many columns,UNEXPECTED
+carol@example.com,Carol Example,Adventure Demo,Event,"Please show the pricing table.
+This is a synthetic multiline inquiry."

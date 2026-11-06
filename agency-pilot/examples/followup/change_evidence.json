@@ -1,0 +1,55 @@
+{
+  "synthetic_demo": true,
+  "events": [
+    {
+      "event_id": "e5654cca63a860ff85188a53f63484e986bec6e2f186dacafc0f4bf9b7d9fe43",
+      "action": "update",
+      "line_number": 2,
+      "email": "alice@example.com",
+      "name": "Alice Example",
+      "company": "Northwind Demo",
+      "source": "Web form",
+      "message": "Please include lead time in the revised synthetic product sheet.",
+      "changes": {
+        "message": {
+          "before": "Please send the revised synthetic product sheet.",
+          "after": "Please include lead time in the revised synthetic product sheet."
+        }
+      }
+    },
+    {
+      "event_id": "93a0678ff35b84ed9428f69de3089983228172f2d0d6a10e804a4ac5875454f0",
+      "action": "new",
+      "line_number": 4,
+      "email": "dana@example.com",
+      "name": "Dana Example",
+      "company": "Fabrikam Demo",
+      "source": "Partner form",
+      "message": "Please share a synthetic sample catalog.",
+      "changes": {
+        "email": {
+          "before": "",
+          "after": "dana@example.com"
+        },
+        "name": {
+          "before": "",
+          "after": "Dana Example"
+        },
+        "company": {
+          "before": "",
+          "after": "Fabrikam Demo"
+        },
+        "source": {
+          "before": "",
+          "after": "Partner form"
+        },
+        "message": {
+          "before": "",
+          "after": "Please share a synthetic sample catalog."
+        }
+      }
+    }
+  ],
+  "within_file_duplicates": [],
+  "suppressed_stale_versions": []
+}

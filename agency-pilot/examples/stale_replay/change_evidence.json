@@ -1,0 +1,14 @@
+{
+  "synthetic_demo": true,
+  "events": [],
+  "within_file_duplicates": [],
+  "suppressed_stale_versions": [
+    {
+      "email": "alice@example.com",
+      "line_number": 2,
+      "suppressed_fingerprint": "a4a380a284adf1477831712efcc40b99fc770e6e73234e1cf2eb4cf05366d0a7",
+      "current_fingerprint": "1acbc82fb55a7854ec4d760fe12979bb82b4735a30a931bb4f3e83f902f2be5a",
+      "first_batch_id": "c82ee448952613a7c9a10ebc2d3e1f5f293413abaa928d73c5606a88c2dc84a6"
+    }
+  ]
+}

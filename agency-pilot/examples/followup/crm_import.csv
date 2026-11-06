@@ -1,0 +1,3 @@
+action,email,name,company,source,message
+update,alice@example.com,Alice Example,Northwind Demo,Web form,Please include lead time in the revised synthetic product sheet.
+new,dana@example.com,Dana Example,Fabrikam Demo,Partner form,Please share a synthetic sample catalog.

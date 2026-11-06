@@ -1,0 +1,5 @@
+line_number,reason,raw_values_json
+5,invalid email syntax,"[""not-an-email"", ""Invalid Example"", ""Fabrikam Demo"", ""Web form"", ""Invalid address for quarantine demonstration.""]"
+6,missing required: name,"[""empty-name@example.com"", """", ""Fabrikam Demo"", ""Web form"", ""Missing name for quarantine demonstration.""]"
+7,expected 5 columns; received 4; missing required: message,"[""short-row@example.com"", ""Short Example"", ""Fabrikam Demo"", ""Web form""]"
+8,expected 5 columns; received 6,"[""extra@example.com"", ""Extra Example"", ""Fabrikam Demo"", ""Web form"", ""Too many columns"", ""UNEXPECTED""]"

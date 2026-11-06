@@ -1,0 +1,12 @@
+{
+  "synthetic_demo": true,
+  "events": [],
+  "within_file_duplicates": [
+    {
+      "email": "alice@example.com",
+      "replaced_line": 2,
+      "kept_line": 4
+    }
+  ],
+  "suppressed_stale_versions": []
+}
