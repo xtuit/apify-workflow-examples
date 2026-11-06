@@ -1,0 +1,37 @@
+[
+  {
+    "key": "https://www.wordpress.org/",
+    "url": "https://www.wordpress.org/",
+    "finalUrl": "https://wordpress.org/",
+    "technologyNames": [
+      "Nginx",
+      "WordPress"
+    ],
+    "technologyCount": 2,
+    "comparison": "no_baseline",
+    "checkedAt": "2026-11-06T13:53:16.577Z",
+    "detectionScope": "server_html_assets_headers_only",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "category": "CMS",
+        "evidence": [
+          {
+            "source": "asset",
+            "value": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/Inter/Inter-latin.woff2"
+          }
+        ]
+      },
+      {
+        "name": "Nginx",
+        "category": "Server",
+        "evidence": [
+          {
+            "source": "header",
+            "value": "server:nginx"
+          }
+        ]
+      }
+    ]
+  }
+]
